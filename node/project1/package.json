@@ -1,0 +1,13 @@
+{
+  "name": "@znguy/project1",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "lol",
+  "dependencies": {},
+  "repository": "some url to the repo"
+}
